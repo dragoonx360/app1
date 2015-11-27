@@ -88,7 +88,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'es-es'
 
-TIME_ZONE = '(UTC+01:00) Bruselas, Copenhague, Madrid, París'
+TIME_ZONE = 'Europe/Madrid'
 
 USE_I18N = True
 
